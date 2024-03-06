@@ -41,7 +41,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ValeryVigovskaya)](https://github.com/ValeryVigovskaya/github-profile-trophy)
 
 <p> Со мной можно связаться по следующим соц. сетям </p>
 
@@ -50,3 +49,4 @@
 
 <p> Сейчас активно нахожусь в поиске работы, открыта для общения и предложений </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValeryVigovskaya)](https://git.io/streak-stats)
