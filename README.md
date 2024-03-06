@@ -49,4 +49,3 @@
 
 <p> Сейчас активно нахожусь в поиске работы, открыта для общения и предложений </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValeryVigovskaya)](https://git.io/streak-stats)
