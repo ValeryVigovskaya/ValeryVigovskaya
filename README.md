@@ -1,7 +1,14 @@
 <h1 align="center">Привет, меня зовут <a href="@ValeryVigovskaya" target="_blank">Лера</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я Front-end разработчик. Мне нравится видеть визуально результаты своей работы. Я хочу делать то, с чем может взаимодействовать каждый - вот, что меня вдохновляет. Также, работала в колл-центре мобильной связи и домашних услуг, поэтому научилась работать в команде, менять настроение клиентов на позитивный лад, решая их вопросы. А работа химиком меня научила самостоятельности в принятии решений и работе с поиском нужной информации на интернет-ресурсах.</h3>
-
+<ul>
+  <li> <img src='![image](https://github.com/ValeryVigovskaya/ValeryVigovskaya/assets/115419857/e3d83343-01b2-406c-8e02-30da6a75bb97)
+'>Мне нравится видеть визуально результаты своей работы
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <p>Языки, которые мной изучены</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
