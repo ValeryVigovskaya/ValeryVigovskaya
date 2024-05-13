@@ -49,7 +49,6 @@
 
 <p> Сейчас активно нахожусь в поиске работы, открыта для общения и предложений </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=ValeryVigovskaya
-&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=ValeryVigovskaya&stroke=COLOR)
 
 
