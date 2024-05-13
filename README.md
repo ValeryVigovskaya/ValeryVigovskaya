@@ -49,3 +49,6 @@
 
 <p> Сейчас активно нахожусь в поиске работы, открыта для общения и предложений </p>
 
+![Codewars] (https://www.codewars.com/users/ValeryVigovskaya/badges/small)
+
+
