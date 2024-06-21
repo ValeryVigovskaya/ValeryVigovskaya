@@ -47,7 +47,7 @@
 <a href="https://t.me/vigovskayaVV" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/></a> 
 <a href="vigovskaavaleria@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a> 
 
-<p> Сейчас активно нахожусь в поиске работы, открыта для общения и предложений </p>
+<p>Сейчас работаю Fullstack - разработчиком </p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=ValeryVigovskaya&stroke=COLOR)
 
